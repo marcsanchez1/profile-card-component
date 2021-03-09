@@ -39,8 +39,8 @@ body {
   display: block;
   width: 350px;
   background: url("../images/bg-pattern-card.svg") no-repeat var(--white);
-  border: 1px solid var(--white);
   border-radius: 15px;
+  box-shadow: 0 0 0px 10px rgba(0, 0, 0, 0.3);
 }
 
 .card-info {
